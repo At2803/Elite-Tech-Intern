@@ -44,6 +44,9 @@ python file_integrity_monitor.py
 File Structure
 file-integrity-monitor/
 │
+
 ├── file_integrity_monitor.py   # Main application script
+
 ├── hash_database.json          # Auto-generated hash database
+
 └── README.md                   # This file
